@@ -4,9 +4,8 @@
 
 This is used for testing github.io and other Jekyll sites in Docker container quickly.  CentOS 7 base image is used for this container, and follow as close to official install and basic usage guides as possible.
 
-Please see: [Official Jekyll installation guide](https://jekyllrb.com/docs/installation/)
-Please see: [Official Jekyll basic usage guide](https://jekyllrb.com/docs/usage/)
-- [Jekyll](http://jekyllrb.com/)
+- [Jekyll installation guide](https://jekyllrb.com/docs/installation/)
+- [Jekyll basic usage guide](https://jekyllrb.com/docs/usage/)
 
 ## Usage notes
 
@@ -16,7 +15,7 @@ Just attach the source folder to the docker run command as appropriate.  The sou
 
 - **INPUTDIR** : Source folder (Default: /opt)
 
-## Volumes
+## Volume
 
 - /opt
 
